@@ -16,7 +16,7 @@ function CharactorSelect() {
   }));
 
   const [charactorList] = React.useState([
-      'c_red','c_darkblue','c_white','c_brown','c_darkgreen'
+      'c_red','c_darkblue','c_white','c_brown','c_darkgreen','c_yellow'
   ])
 
   const [totalCharactors, setTotalCharactors] = React.useState(0)
