@@ -9,7 +9,7 @@ export const actionTypes = {
 const initialState = {
   name: "test",
   attributeList: ["STR", "VIT", "DEX", "LUK", "INT", "AGI"],
-  attributeValue: [1, 2, 3, 4, 5, 6],
+  attributeValue: [1, 2, 3, 4, 5, 6,10],
 };
 
 //Reducer
